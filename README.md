@@ -1,4 +1,4 @@
-# flasher-n900
+# Nokia N900 Maemo Flasher 3.5
 
 Maemo Flasher 3.5 for Nokia N900
 
